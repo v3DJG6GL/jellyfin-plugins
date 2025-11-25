@@ -1,0 +1,20 @@
+[
+    {
+        "category": "General",
+        "guid": "b24c5930-c337-4e0f-977f-1d900629ad09",
+        "name": "Disable UserData",
+        "description": "Omits UserData (watch status / progress) from different endpoints in order to speed up queries.",
+        "owner": "pelluch",
+        "overview": "Disable user data param for speed-ups",
+        "versions": [
+            {
+                "checksum": "4a1d23bb90ef2fe9dc301b270a66b251",
+                "changelog": "Initial release",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/pelluch/jellyfin-plugin-disable-user-data/releases/download/0.1.0.0/DisableUserData_0.1.0.0.zip",
+                "timestamp": "2025-11-25T05:37:13Z",
+                "version": "0.1.0.0"
+            }
+        ]
+    }
+]
