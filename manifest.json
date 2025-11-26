@@ -8,6 +8,14 @@
         "overview": "Disable user data param for speed-ups",
         "versions": [
             {
+                "checksum": "068a039735f6560b13709c1721f4168b",
+                "changelog": "Bug fix for all items option",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/pelluch/jellyfin-plugin-disable-user-data/releases/download/0.2.1.0/DisableUserData_0.2.1.0.zip",
+                "timestamp": "2025-11-26T03:17:45Z",
+                "version": "0.2.1.0"
+            },
+            {
                 "checksum": "a8ca04473d66705bb645ed2c0a6720e4",
                 "changelog": "Adds more logging and option to disable user data on more items",
                 "targetAbi": "10.11.0.0",
