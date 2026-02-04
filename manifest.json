@@ -8,6 +8,14 @@
         "overview": "Disable user data param for speed-ups",
         "versions": [
             {
+                "checksum": "f2cf53a4f7b301c6c6d4811613f1835f",
+                "changelog": "Properly set assembly version",
+                "targetAbi": "10.11.0.0",
+                "sourceUrl": "https://github.com/v3DJG6GL/jellyfin-plugin-disable-user-data/releases/download/0.2.1.2/disable-user-data_0.2.1.2.zip",
+                "timestamp": "2026-02-04T02:00:00Z",
+                "version": "0.2.1.2"
+            },
+            {
                 "checksum": "bcae5ecdccb28a96bb6e213d20111be2",
                 "changelog": "Properly set assembly version",
                 "targetAbi": "10.11.0.0",
